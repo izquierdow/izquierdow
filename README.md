@@ -3,7 +3,7 @@
 </p> -->
 
 # Hi everyone, I´m William Izquierdo!
-### I'm Network Administrator and a Student for Full Stack Web Developer At Henry* 
+### I'm Network Administrator and a AWS Cloud Practitioner 
 
 # I am really passionate about this:
 - 💬 Everything related to communication, especially the digital world.
